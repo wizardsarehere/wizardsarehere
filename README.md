@@ -16,8 +16,8 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="20" height="20"/> 
 
 ## Projects:
-- [Project 1](https://github.com/wizard/project1): A brief description of Project 1.
-- [Project 2](https://github.com/wizard/project2): Another exciting project.
+- [Roderika](https://discord.gg/roderika): Roderika Discord Bot
+- [Roderika Web](https://roderikacommunity.com.tr): Roderika Site
 
 ## Contact Information:
 - 📧 Email: wizard@roderikacommunity.com.tr
