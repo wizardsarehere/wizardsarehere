@@ -1,30 +1,53 @@
-<h1 align="center">Hi 👋, I'm My name is Wizard</h1>
-<h3 align="center">Front-end Developer</h3>
+<!-- Merhaba, Ben Wizard 👋 -->
+<h1 align="center">Selamlar! 🚀 Ben Wizard</h1>
 
-
-<h1 align="center">Merhaba 👋, Ben Wizard</h1>
-<h3 align="center">Front-end Geliştirici</h3>
-
-- 🌱 Şu anda öğrenmekte olduğum şeyler: **Node.js, Express.js**
-- 👯‍♂️ RoderikaCommunity sahibiyim ve Rize'de yaşıyorum.
-- ⚡ Eğlence ve tutku için kod yazıyorum!
-
-<h3 align="left">Kullandığım Diller ve Araçlar:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  <img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" alt="Kod Büyücüsü" width="300"/>
 </p>
 
-📫 Benimle iletişime geçmek için: wizard@example.com
+<h3 align="center">Hırslı Front-end Geliştirici | Yaratıcı | Kod Tutkunu</h3>
 
-🔗 GitHub: [github.com/wizard](https://github.com/wizard)
+---
+
+🌟 **Hakkımda:**
+- 🚀 **Web Geliştirme** evrenini keşfetmekteyim.
+- 💡 Her zaman öğrenmeye ve yeni teknolojileri denemeye açığım.
+- 🌈 Kahveyi kod, hayalleri projelere dönüştürüyorum.
+
+---
+
+💻 **Teknoloji Yığınım:**
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</p>
+
+---
+
+🚀 **Projeler:**
+- ✨ [Proje1](https://github.com/wizard/project1): Proje1'in kısa bir açıklaması.
+- 🌟 [Proje2](https://github.com/wizard/project2): Başka heyecan verici bir proje.
+
+---
+
+📫 **İletişim Bilgileri:**
+- 📧 E-posta: wizard@example.com
+- 🔗 GitHub: [github.com/wizard](https://github.com/wizardsarehere)
+- 🌐 Projem: [Projem](https://roderikacommunity.com.tr)
+
+---
+
+⚡ **Eğlenceli Bilgi:**
+Kodlamanın büyüsüne inanıyorum, kod satırları fikirleri hayata geçirir! ✨
+
+---
+
+👀 **Ziyaretçi Sayısı:** ![Ziyaretçi Sayısı](https://profile-counter.glitch.me/wizard/count.svg)
+
+---
+
+🔮 Projelerimi keşfetmekten çekinme ve birlikte sihirli şeyler yaratalım! 🚀
+
