@@ -27,9 +27,6 @@
 ## Fun Fact:
 I believe in the magic of coding; lines of code bring ideas to life! ✨
 
-## Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/wizard/count.svg)
-
 ## Explore Projects:
 Feel free to explore my projects and let's create magical things together! 🚀
 
