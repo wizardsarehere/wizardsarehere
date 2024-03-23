@@ -18,15 +18,3 @@
 ## Projects:
 - [Roderika](https://discord.gg/roderika): Roderika Discord Bot
 - [Roderika Web](https://roderikacommunity.com.tr): Roderika Site
-
-## Contact Information:
-- 📧 Email: wizard@roderikacommunity.com.tr
-- 🔗 GitHub: [github.com/wizardsarehere](https://github.com/wizardsarehere)
-- 🌐 Website: [roderikacommunity.com.tr](https://roderikacommunity.com.tr)
-
-## Fun Fact:
-I believe in the magic of coding; lines of code bring ideas to life! ✨
-
-## Explore Projects:
-Feel free to explore my projects and let's create magical things together! 🚀
-
