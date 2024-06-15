@@ -25,4 +25,4 @@
 
 ## Projects:
 - [Roderika](https://discord.gg/roderika): Roderika Discord Bot
-- [Roderika Web](https://roderikacommunity.com.tr): Roderika Site
+- [Roderika Web](https://roderika.xyz): Roderika Site
